@@ -38,7 +38,7 @@ The following Sanctum features are implemented in this Vue SPA:
 #### Clone the repository
 
 ```bash
-git clone https://github.com/irabbi360/laravel-vue3-spa-starter.git
+git clone https://github.com/AndrejKh/Vue-Laravel-SPA-Project.git
 ```
 
 #### Copy .env.example file to .env and edit credentials also set app url
@@ -91,10 +91,6 @@ Thank you for considering contributing to the project! The contribution guide ca
 ## Code of Conduct
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail via [fazrabbi010@gmail.com](mailto:fazrabbi010@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
